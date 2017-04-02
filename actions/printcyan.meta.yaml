@@ -2,7 +2,7 @@
 description: Run the example
 enabled: true
 entry_point: src/vendor_example/cmd/printcyan/main.go
-name: vendor-example
+name: printcyan
 pack: goexamples
 parameters:
   cmd:
