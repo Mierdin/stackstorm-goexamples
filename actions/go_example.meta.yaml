@@ -1,0 +1,11 @@
+---
+description: Run the example
+enabled: true
+entry_point: go_example.go
+name: go-example
+pack: influxdb
+parameters:
+  cmd:
+    required: true
+    type: string
+runner_type: go-program

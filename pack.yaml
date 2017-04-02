@@ -1,0 +1,8 @@
+---
+name: goexamples
+description: A StackStorm pack for experimenting with the Go runner
+keywords:
+    - goexamples
+version: 0.1.0
+author: mierdin
+email: info@stackstorm.com

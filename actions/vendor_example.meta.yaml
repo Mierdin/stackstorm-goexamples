@@ -1,0 +1,11 @@
+---
+description: Run the example
+enabled: true
+entry_point: src/vendor_example/cmd/printcyan/main.go
+name: vendor-example
+pack: goexamples
+parameters:
+  cmd:
+    required: true
+    type: string
+runner_type: go-program
